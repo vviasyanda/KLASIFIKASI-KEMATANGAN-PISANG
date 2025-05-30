@@ -1,0 +1,11 @@
+streamlit
+pillow
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+pandas
+ultralytics
+shap
+scikit-image
