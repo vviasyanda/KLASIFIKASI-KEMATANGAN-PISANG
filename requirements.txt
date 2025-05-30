@@ -9,3 +9,4 @@ pandas
 ultralytics
 shap
 scikit-image
+opencv-python-headless
